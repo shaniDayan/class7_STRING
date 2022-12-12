@@ -1,0 +1,13 @@
+#include <string.h>
+
+strlen(s)// return length 
+strcpy(d,s) // copy from s to d
+srtcat(d,s) // add s to the end of d
+strcmp(s1 , s2) // return 0 if they are equal, +number if s1 > s2. -number if s1 < s2
+
+
+/*
+אנחנו תמיד צריכים להראות שיש מספיק מקום אם אנחנו עושים הדבקה של מחרוזות 
+אם אין מקום זה יעוף לנו 
+אי אפשר להשתמש בזה בתרגילי בית ובמבחנים אלא אם ציון אחרת רוצים שנממש לבד 
+*/
